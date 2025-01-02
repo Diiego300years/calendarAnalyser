@@ -1,0 +1,7 @@
+token.json
+credentials.json
+.venv_calendar
+.idea
+.python-version
+__pycache__
+img
